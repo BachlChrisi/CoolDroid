@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoolDroid</string>
+    <string name="txt_dont_touch" translatable="false">Finger weg vomDroiden!</string>
+    <string name="once" translatable="false">Du hast ihn einmal berührt!</string>
+    <string name="twice" translatable="false">Du hast ihn zwei mal berührt!</string>
+    <string name="text_view_numbers">Du hast ihn %l$d mal berührt!</string>
+</resources>

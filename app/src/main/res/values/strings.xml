@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">CoolDroid</string>
+    <string name="app_name" translatable="false">CoolDroid</string>
+    <string name="txt_dont_touch" translatable="false">Don\'t touch the droid!</string>
+    <string name="once" translatable="false">once</string>
+    <string name="twice" translatable="false">twice</string>
+    <string name="text_view_numbers">You touched the droid %1$d times!</string>
 </resources>
